@@ -1,0 +1,11 @@
+From the following project content, extract the key data insights or findings
+explicitly claimed by the authors.
+
+Rules:
+- Do NOT judge or critique the work
+- Do NOT add new insights
+- Only extract what the authors explicitly state
+- Summarize insights clearly and concisely
+- Return 3 to 7 bullet points
+
+PROJECT CONTENT:
